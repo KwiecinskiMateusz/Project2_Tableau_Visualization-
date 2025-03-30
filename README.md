@@ -12,7 +12,7 @@ This project is my second portfolio piece in Data Analysis, providing hands-on e
 - Filters were created in Tableau to visualize reviews based on the type of service provided by the airline, the review date, seat type, traveller type, aircraft type and the passenger's continent of origin.
 - Graphs illustrating the country of origin of reviewers, changes in ratings over time and reviews based on aircraft type and the number of reviews were created in Tableau.
 - An interactive Tableau dashboard was created to visualize key insights, allowing users to filter and explore data related to airline services.
-- The final Tableau dashboard was published on Tableau Public and the cleaned datasets were shared on GitHub for public access and further analysis.
+- The final Tableau dashboard was published on my Tableau Public profile. Raw CSV datasets and cleaned Excel file can be found on my GitHub profile.
 
 **The final interactive dashboardcan be found on my Tableau Public profile: 
 https://public.tableau.com/app/profile/mateusz.kwieci.ski4457/viz/aircraft_reviews_17432668682360/FinalDashboard**
