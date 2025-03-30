@@ -2,8 +2,8 @@
 This project is my second portfolio piece in Data Analysis, providing hands-on experience with Tableau Public and data visualization. The goal was to clean, integrate, and transform the data into an interactive dashboard, providing insights into customer satisfaction, trends, and geographic breakdowns.
 
 **Data Sources:**
-- British Airways Review
-- Country Mapping - ISO, Continent, Region
+- "British Airways Review" CSV file
+- "Country Mapping" CSV file
 
 **Key Actions Taken in the Project:**
 - Raw data was collected in CSV format.
